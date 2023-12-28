@@ -1,0 +1,13 @@
+int notes[] = {
+  E2, D3, E3, E2, PAUSE, E2, D3, PAUSE, E3, PAUSE, E2, 
+  D2, D3, E3, D2, PAUSE, D2, D3, PAUSE, E3, PAUSE, A2, 
+  B1, B2, B2, B1, B1, B2, B1, B2, PAUSE, B1, 
+  C2, C3, C3, C2, C2, C3, C2, C3, PAUSE, C2
+};
+
+int notes[] = {
+  E1, D2, E2, E1, PAUSE, E1, D2, PAUSE, E2, PAUSE, E1, 
+  D1, D2, E2, D1, PAUSE, D1, D2, PAUSE, E2, PAUSE, A1, 
+  B0, B1, B1, B0, B0, B1, B0, B1, PAUSE, B0, 
+  C1, C2, C2, C1, C1, C2, C1, C2, PAUSE, C1
+};
